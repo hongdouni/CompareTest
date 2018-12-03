@@ -1,0 +1,2 @@
+# CompareTest
+Simple Test Project
